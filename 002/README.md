@@ -38,9 +38,3 @@
        <ОТЧЕТЫ/2.2 автоматическое формирование сверки взаиморасчетов.feature>
 
        
-
-Фриланс: https://www.fl.ru/dashboard/
-
-Резюме: https://petrozavodsk.hh.ru/resume/46b2187aff0732599a0039ed1f3666354b4861
-
-
